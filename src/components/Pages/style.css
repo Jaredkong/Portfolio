@@ -1,0 +1,15 @@
+.main {
+    border: gray;
+    border-radius: 1px;
+    border-style: solid;
+    margin-top: 75px;
+    padding: 40px;
+    border-radius: 25px;
+    
+}
+
+body {
+    min-height: 400px;
+    margin-bottom: 100px;
+    clear: both;
+ }

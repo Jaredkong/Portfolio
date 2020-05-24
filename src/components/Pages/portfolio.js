@@ -16,7 +16,7 @@ class Portfolio extends Component {
               <Card style={{ width: '18rem' }}>
                 <Card.Body>
                   <Card.Title>Work Day Scheduler</Card.Title>
-                  <Image thumbnail src="../../assets/images/workdayscheduler.JPG" alt="calendar app"></Image>
+                  <Image thumbnail src="../../assets/images/workdayscheduler.jpg" alt="calendar app"></Image>
                   <Card.Text>
                     A simple calendar app for scheduling your work day
                   </Card.Text>
@@ -27,7 +27,7 @@ class Portfolio extends Component {
               <Card style={{ width: '18rem' }}>
                 <Card.Body>
                   <Card.Title>Employee Tracker</Card.Title>
-                  <Image thumbnail src="../../assets/images/employeetracker.PNG" alt="Employee Tracker"></Image>
+                  <Image thumbnail src="../../assets/images/employeetracker.png" alt="Employee Tracker"></Image>
                   <Card.Text>
                   A command-line application that can keep track of employees
                   </Card.Text>
@@ -37,7 +37,7 @@ class Portfolio extends Component {
               <Card style={{ width: '18rem' }}>
                 <Card.Body>
                   <Card.Title>Workout Tracker</Card.Title>
-                  <Image thumbnail src="../../assets/images/workouttracker.PNG" alt="Workout Tracker"></Image>
+                  <Image thumbnail src="../../assets/images/workouttracker.png" alt="Workout Tracker"></Image>
                   <Card.Text>
                     An app that is able to view create and track daily workouts. Utilizes MongoDB.
                  </Card.Text>
@@ -48,7 +48,7 @@ class Portfolio extends Component {
               <Card style={{ width: '18rem' }}>
                 <Card.Body>
                   <Card.Title>Donationally</Card.Title>
-                  <Image thumbnail src="../../assets/images/donationally.JPG" alt="Donationally"></Image>
+                  <Image thumbnail src="../../assets/images/donationally.jpg" alt="Donationally"></Image>
                   <Card.Text>
                     A website to help find charities.  Team effort.  Worked mostly on google maps portion, which includes utilization of google maps API, google geolocation API, and google places API.
                   </Card.Text>
